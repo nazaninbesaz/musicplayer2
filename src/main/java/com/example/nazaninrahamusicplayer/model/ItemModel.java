@@ -1,4 +1,4 @@
-package com.example.arghavanazizimusicplayer.model;
+package com.example.nazaninrahamusicplayer.model;
 
 import android.graphics.ColorSpace;
 
