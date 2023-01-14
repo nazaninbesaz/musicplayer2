@@ -1,4 +1,4 @@
-package com.example.arghavanazizimusicplayer;
+package com.example.nazaninrahamusicplayer;
 
 import android.content.Intent;
 import android.os.Bundle;
