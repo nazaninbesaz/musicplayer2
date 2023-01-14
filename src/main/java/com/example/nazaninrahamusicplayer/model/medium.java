@@ -1,4 +1,4 @@
-package com.example.arghavanazizimusicplayer.model;
+package com.example.nazaninrahamusicplayer.model;
 
 public class medium
 {
