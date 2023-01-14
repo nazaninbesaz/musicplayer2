@@ -1,4 +1,4 @@
-package com.example.arghavanazizimusicplayer;
+package com.example.nazaninrahamusicplayer;
 
 import android.content.Context;
 import android.view.LayoutInflater;
